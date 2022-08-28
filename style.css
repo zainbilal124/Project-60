@@ -86,5 +86,5 @@ border: 10px solid #AAAAAA;
 
 img:hover {
     /* Give transform property to scale to 0.9 */
-    transform: scale( );
+    transform: scale(0.9 );
 }
